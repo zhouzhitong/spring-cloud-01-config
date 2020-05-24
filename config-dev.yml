@@ -1,1 +1,2 @@
-this is product of config
+config:
+  info: this is config of dev!!!
