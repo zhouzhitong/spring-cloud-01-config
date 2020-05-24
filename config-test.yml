@@ -1,1 +1,3 @@
-this is config test
+spring:
+	application:
+		name: 张三
